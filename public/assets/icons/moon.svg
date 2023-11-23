@@ -1,3 +1,29 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M10.6834 10.6829C13.4171 7.94926 13.4171 3.51707 10.6834 0.783419C10.4027 0.502702 10.5805 -0.0138667 10.9755 0.0255724C13.1923 0.24689 15.3492 1.20659 17.0474 2.90474C20.9526 6.80997 20.9526 13.1416 17.0474 17.0469C13.1421 20.9521 6.81046 20.9521 2.90523 17.0469C1.20708 15.3487 0.247378 13.1918 0.0260606 10.975C-0.0133784 10.58 0.50319 10.4022 0.783907 10.6829C3.51756 13.4166 7.94975 13.4166 10.6834 10.6829Z" fill="#697C89"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="moon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M10.6834 10.6829C13.4171 7.94926 13.4171 3.51707 10.6834 0.783419C10.4027 0.502702 10.5805 -0.0138667 10.9755 0.0255724C13.1923 0.24689 15.3492 1.20659 17.0474 2.90474C20.9526 6.80997 20.9526 13.1416 17.0474 17.0469C13.1421 20.9521 6.81046 20.9521 2.90523 17.0469C1.20708 15.3487 0.247378 13.1918 0.0260606 10.975C-0.0133784 10.58 0.50319 10.4022 0.783907 10.6829C3.51756 13.4166 7.94975 13.4166 10.6834 10.6829Z"
+     fill="#697C89"
+     id="path2" />
 </svg>
